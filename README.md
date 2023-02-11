@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrejChoo
-- 👀 I’m interested in MCU programming on C, C# programming.
-- 🌱 I’m currently learning java programming (at the amateur level, I study on my own).
+- 👀 I’m interested in MCU programming on C, C# programming, FPGA programming.
+- 🌱 I’m currently learning java programming, verilog (at the amateur level, I study on my own).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andrejchukov@yandex.ru
 
